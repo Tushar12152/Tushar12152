@@ -2,7 +2,7 @@
 #### Web Developer
 
 
-![An old rock in the desert](https://raw.githubusercontent.com/Tushar12152/Tushar12152/main/image/cover%20git.png)
+[![An old rock in the desert](https://raw.githubusercontent.com/Tushar12152/Tushar12152/main/image/cover%20git.png)](https://www.facebook.com/TusharImran03)
 
 👋 Hi there! I'm Md. Isme Ajam (Tushar) a passionate web developer with a flair for creating elegant, functional, and user-friendly websites. 
 
