@@ -44,7 +44,7 @@
 
 
 
-### Currently
+## Currently
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with learning
@@ -55,5 +55,5 @@
 
 
 
-### GitHub Activity Graph
+## GitHub Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tushar12152&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
