@@ -10,7 +10,13 @@
 
 </div>
 
+<div align="center">
 
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=react,javascript,nodejs,express,mongodb,html,css,tailwindcss,bootstrap,firebase,github,figma&theme=light)](https://skillicons.dev)
+
+</div>
 👋 Hi there! I'm Md. Isme Ajam (Tushar), a passionate web developer with a flair for creating elegant, functional, and user-friendly websites.
 
 🚀 Over the years, I've honed my skills in a variety of technologies including HTML5, CSS3, JavaScript (ES6+), and a range of modern front-end frameworks like React.js. I'm also experienced in back-end technologies such as Express and MongoDB.
@@ -27,8 +33,11 @@ Other: REST APIs, Responsive Design
 
 🌱 Always learning, always coding. Let's build something amazing together!
 
-### Skills
-/ REACT / JAVASCRIPT / HTML / CSS / TAILWIND CSS / FIREBASE AUTHENTICATION / EXPRESS JS / MONGODB /
+
+
+
+
+
 
 ### Currently
 - 🌱 I’m currently learning Node.js
