@@ -30,7 +30,7 @@
 </div>
 <div align="center">
 
-## Top used Technologies
+## Top Used Technologies
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar12152)
 
