@@ -4,6 +4,12 @@
 
 [![An old rock in the desert](https://raw.githubusercontent.com/Tushar12152/Tushar12152/main/image/cover%20git.png)](https://www.facebook.com/TusharImran03)
 
+
+
+## 📈 Current Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tushar12152&theme=merko)](https://git.io/streak-stats)
+
 👋 Hi there! I'm Md. Isme Ajam (Tushar) a passionate web developer with a flair for creating elegant, functional, and user-friendly websites. 
 
 🚀 Over the years, I've honed my skills in a variety of technologies including HTML5, CSS3, JavaScript (ES6+), and a range of modern front-end frameworks like React.js. I'm also experienced in back-end technologies such as Express, and MongoDB.
