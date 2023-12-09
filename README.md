@@ -30,11 +30,27 @@
 </div>
 <div align="center">
 
-## Top Used Technologies
+##  🏆 Top Used Technologies
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar12152)
 
 
+
+</div>
+<div align="center">
+
+## ⚡ Currently
+- 🌱 I’m currently learning Node.js
+- 👯 I’m looking to collaborate on GitHub
+- 🤔 I’m looking for help with learning
+- 💬 Ask me about web development
+
+
+</div>
+<div align="center">
+
+## ⚽ GitHub Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tushar12152&custom_title=Activity%20On%20%20GitHub&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -44,16 +60,10 @@
 
 
 
-## Currently
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on GitHub
-- 🤔 I’m looking for help with learning
-- 💬 Ask me about web development
 
 
 
 
 
 
-## GitHub Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tushar12152&custom_title=Activity%20On%20%20GitHub&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
