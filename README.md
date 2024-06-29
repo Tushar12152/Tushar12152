@@ -14,7 +14,7 @@
 
 ## 💻  Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,javascript,nodejs,express,mongodb,html,css,tailwindcss,bootstrap,firebase,github,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,javascript,nodejs,express,mongodb,html,css,tailwindcss,bootstrap,firebase,github,figma&theme=light)](https://skillicons.dev)
 
 </div>
 
